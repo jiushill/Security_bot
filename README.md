@@ -18,7 +18,8 @@
 
 ## 改动点 ##
 ```python
-bot=telebot.TeleBot('BOT_TOKEN')
+bot=telebot.TeleBot('TOKEN')
+tid="cha_id"
 ```
 
 33行和114行的
