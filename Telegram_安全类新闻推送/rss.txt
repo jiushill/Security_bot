@@ -1,0 +1,22 @@
+freebuf>https://www.freebuf.com/feed
+安全脉搏>https://www.secpulse.com/feed
+先知社区>https://xz.aliyun.com/feed
+Sec Hotspot>https://sec.thief.one/atom.xml
+CTFTIME>https://ctftime.org/event/list/upcoming/rss/
+离别歌>https://www.leavesongs.com/rss.php
+packetst>http://rss.packetstormsecurity.org/files/tags/tool/
+雨苁>https://www.ddosi.com/feed/
+微软>https://www.microsoft.com/security/blog/feed/
+Emacs资深玩家>https://c4dr01d.github.io/rss.xml
+FOCUS>https://ray-cp.github.io/feed.xml
+体验盒子>https://www.uedbox.com/feed/
+ChaBug安全>https://www.chabug.org/feed
+demon哥的博客>https://www.ggsec.cn/atom.xml
+hackingarticles>https://www.hackingarticles.in/feed/
+secjuice>https://www.secjuice.com/rss/
+360每日简报>https://cert.360.cn/daily/feed
+AnonySec>https://payloads.cn/atom.xml
+dylan的博客>https://blog.dylan.codes/rss/
+cxsecurity[exp]>https://cxsecurity.com/wlb/rss/exploit/
+cxsecurity[vulnerabilities]>https://cxsecurity.com/wlb/rss/vulnerabilities/
+xpn'blog>https://blog.xpnsec.com/rss/

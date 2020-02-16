@@ -1,0 +1,8 @@
+1./list列出已经拥有的安全动态
+2./search [关键字] 从db里面搜索关键字的内容
+3./add [token] [name]>[url]添加RSS源
+4./rss_list 列出已有的RSS源
+5./update获取新的消息
+10分钟自动更新安全动态（如果有的话）
+添加RSS源时，请确是如下内容的：
+<item><title>Weblogic-T3-CVE-2019-2890-Analysis</title><link>http://xz.aliyun.com/t/6904</link>
