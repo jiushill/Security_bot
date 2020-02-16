@@ -1,7 +1,5 @@
 # Security_bot #
-
-鉴于之前的服务器不知道过期了还是被某FW干翻了，虽然还在运行。但是服务器进不了，我特么黑人问号...
-于是打算把之前写的代码公布出来算了...
+由于某种不可抗拒原因
 
 
 ## 功能点 ##
@@ -49,8 +47,8 @@ os.system('python main.py') #如果你在Linux上有多个py环境的话，记�
 ## 效果 ##
 ![](https://s2.ax1x.com/2020/02/16/393dRf.png)
 
-![](https://s2.ax1x.com/2020/02/16/393BQS.png)
+![](https://s2.ax1x.com/2020/02/16/39GYCt.png)
 
-![](https://s2.ax1x.com/2020/02/16/393aJP.png)
+![](https://s2.ax1x.com/2020/02/16/39Go5R.png)
 
 ![](https://s2.ax1x.com/2020/02/16/393wz8.png)
