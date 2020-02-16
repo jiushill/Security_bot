@@ -47,10 +47,10 @@ os.system('python main.py') #如果你在Linux上有多个py环境的话，记�
 ```
 
 ## 效果 ##
-![](https://imgchr.com/i/393dRf)
+![](https://s2.ax1x.com/2020/02/16/393dRf.png)
 
-![](https://imgchr.com/i/393BQS)
+![](https://s2.ax1x.com/2020/02/16/393BQS.png)
 
-![](https://imgchr.com/i/393aJP)
+![](https://s2.ax1x.com/2020/02/16/393aJP.png)
 
-![](https://imgchr.com/i/393wz8)
+![](https://s2.ax1x.com/2020/02/16/393wz8.png)
