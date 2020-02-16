@@ -8,7 +8,8 @@ import threading
 import os
 import re
 
-bot=telebot.TeleBot('BOT_TOKEN')
+bot=telebot.TeleBot('TOKEN')
+tid="cha_id"
 
 @bot.message_handler(commands=['help'])
 def helps(message):
@@ -39,7 +40,7 @@ def updates(message):
     if len(dta)>0:
         sulited_text = telebot.util.split_string(dta, 3000)
         for text in sulited_text:
-            bot.send_message(631202355, text)
+            bot.send_message(tid, text)
     else:
         bot.reply_to(message, '没有新的动态')
 
@@ -94,7 +95,7 @@ def sends(message):
     data='[{}] Admin:{}'.format(dt,str(message.text).replace('/sendhaq','').lstrip().rstrip())
     sulited_text = telebot.util.split_string(data, 3000)
     for text in sulited_text:
-        bot.send_message(631202355, text)
+        bot.send_message(tid, text)
 
 @bot.message_handler(regexp="[/]search .*")
 def searchs(message):
@@ -120,7 +121,7 @@ def start():
     if len(dta) > 0:
         sulited_text = telebot.util.split_string(dta, 3000)
         for text in sulited_text:
-            bot.send_message(631202355,text)
+            bot.send_message(tid,text)
 
     print('bot开始工作')
     '''
