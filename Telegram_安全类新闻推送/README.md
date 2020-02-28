@@ -19,7 +19,7 @@ db.txt -- 抓取到的信息总存
 save.txt -- 暂时更新的安全动态
 ```
 # 注意事项
-添加RSS源时，请确是如下内容的：
-```text
-<item><title>Weblogic-T3-CVE-2019-2890-Analysis</title><link>http://xz.aliyun.com/t/6904</link>
+添加RSS源的时候
+```
+/add [token] [name]>[url]添加RSS源 #token在key.txt里
 ```
